@@ -12,7 +12,7 @@ This project serves as a minimal starter template for building a Telegram bot us
 ## Requirements
 
 - Python 3.6+
-- python-telegram-bot library
+- python-telegram-bot library (If it gives error, use version 13.13)
 
 
 ## Getting Started
